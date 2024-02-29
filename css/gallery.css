@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(193, 243, 255);
+    text-align: center;
+}
+fieldset{
+    border: 0px;
+}
+label{
+    font-size: 25px;
+}
+img{
+    width: 70%;
+    padding: 20px;
+}

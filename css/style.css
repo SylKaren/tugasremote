@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(193, 243, 255);
+}
+img{
+    position:fixed;
+    width: 15%;
+    left: 900px;
+}
+pre{
+    font-size: 20px;
+}

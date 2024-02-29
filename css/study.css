@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(193, 243, 255);
+    text-align: center;
+}
+label{
+    font-size: 25px;
+}
+table{
+    margin-top: 20px;
+    background-color: white;
+    padding: 5px;
+    width: 70%;
+}
+th{
+    background-color: grey;
+}
